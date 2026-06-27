@@ -9,7 +9,7 @@ function minDate(dates) {
 		}
 	}
 	
-	return minDate;
+	console.log(minDate);
 }
 
 // Do not change the code
